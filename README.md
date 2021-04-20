@@ -22,3 +22,10 @@ A portfolio app to demonstarte my technical work and experience, offer a brief i
 - [Downloadable pdf with a tag](https://www.w3schools.com/tags/att_a_download.asp)
 - [Clickable image how to!](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image)
 - [Remove all style from link (hint hint 😉)](https://stackoverflow.com/questions/23262711/a-href-remove-all-styling)
+- [Hoverable background img](https://www.tutorialrepublic.com/faq/how-to-change-image-on-hover-with-css.php)
+
+
+
+
+
+
